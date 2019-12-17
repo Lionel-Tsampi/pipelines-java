@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lioneltsampi0898/azurepipeline-demo/_apis/build/status/Lionel-Tsampi.pipelines-java?branchName=master)](https://dev.azure.com/lioneltsampi0898/azurepipeline-demo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
